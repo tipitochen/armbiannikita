@@ -25,4 +25,4 @@ Además del sistema, también voy a compartir un diseño de **carcasa en 3D** qu
 ## Sobre el proyecto  
 
 Este proyecto fue desarrollado sin fines de lucro y con el único objetivo de compartir una experiencia optimizada para la Orange Pi Zero 2W.  
-Podés encontrar más información y contenido relacionado en mi canal de YouTube: **[Tu Canal]** 🎥🚀  
+Podés encontrar más información y contenido relacionado en mi canal de YouTube: **tipitochen** 🎥🚀  
